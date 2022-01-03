@@ -3,7 +3,7 @@ Exercício desenvolvido para o componente de Programação Web III referente ao 
 Desenvolvimento de Sistemas da Etec - Escola Técnica Estadual em Novembro de 2021.
  
  📌 Objetivo
-> Criar um template livre com o boostrap
+> Criar um template livre com o Bootstrap
     
  📚 Ferramentas
  
